@@ -1,7 +1,9 @@
 /**
  * @name ActivityFilter
+ * @author Sewsho
  * @description Customize which activities, games, or apps are displayed in your Discord status with advanced filtering and visibility options.
- * @version 1.1.3
+ * @version 1.1.0
+ * @source https://github.com/sewsho/BetterDiscordAddons/blob/main/Plugins/ActivityFilter/ActivityFilter.plugin.js
  */
 
 module.exports = (meta) => {
