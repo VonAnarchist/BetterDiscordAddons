@@ -3,7 +3,7 @@
  * @author VonAnarchist
  * @description Choose which activities you want visible to others.
  * @version 1.0.0
- * @source https://github.com/VonAnarchist/BetterDiscordAddons/edit/main/Plugins/ActivityFilter/ActivityFilter.plugin.js
+ * @source https://github.com/VonAnarchist/BetterDiscordAddons/blob/main/Plugins/ActivityFilter/HideActivity.plugin.js
  */
 
 module.exports = (meta) => {
