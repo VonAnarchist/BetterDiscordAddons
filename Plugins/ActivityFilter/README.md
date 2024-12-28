@@ -37,6 +37,7 @@ You can update your activity visibility settings anytime through the plugin sett
 - Toggles to enable/disable activites was fixed
 - Settings options to choose
 - Auto hide all added
+- This is an almost full reworked fork from ActivityFilter.
 
 ## Support
 
